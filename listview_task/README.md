@@ -1,12 +1,10 @@
 # listview_task
 
+Here are some screenshots of the app:
 
-![Screenshot 2024-08-08 202809](https://github.com/user-attachments/assets/ee914536-8a03-497c-904d-4893223a1758)
+<img src="https://github.com/user-attachments/assets/ee914536-8a03-497c-904d-4893223a1758" alt="Screenshot 1" width="400"/>
 
-
-
-![Screenshot 2024-08-08 202858](https://github.com/user-attachments/assets/cc6e73b1-b4a4-4df2-a806-0a62b9178d1f)
-
+<img src="https://github.com/user-attachments/assets/cc6e73b1-b4a4-4df2-a806-0a62b9178d1f" alt="Screenshot 2" width="400"/>
 
 ## Getting Started
 
